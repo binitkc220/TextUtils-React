@@ -1,10 +1,10 @@
-### From Developer  ###
+# From Developer 
 Textutils is a web based app developed and designed using React JS and Bootstrap by Binit KC. It simply consists of a textbox where we can type text. Then, we can manipulate those text like removing extra space, converting it to lowercase and uppercase, count vowel characters, consonant characters, digits and special characters in the text, and so on.. It also has features of four different colour themes and consist of dark mode too. Other feature includes copying text and text-to-speech.
 
 
-### From React ###
+# From React
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
