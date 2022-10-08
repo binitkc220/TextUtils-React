@@ -9,7 +9,7 @@ export default function About(props) {
     </h4>
     <br/>
     <h3 className={`text-${(props.mode==='light'?'dark':'light')} text-justify m-4`}><b>Source Code:</b></h3>
-    <a class={`link-${(props.mode==='light'?'dark':'light')}`} href="https://binitkc.com.np" target="_blank" rel="noopener noreferrer"><h4 className={`text-${(props.mode==='light'?'dark':'light')} text-justify m-4`}>TextUtils-React</h4></a>
+    <a class={`link-${(props.mode==='light'?'dark':'light')}`} href="https://github.com/binitkc220/TextUtils-React" target="_blank" rel="noopener noreferrer"><h4 className={`text-${(props.mode==='light'?'dark':'light')} text-justify m-4`}>TextUtils-React</h4></a>
     </div>
   )
 }
