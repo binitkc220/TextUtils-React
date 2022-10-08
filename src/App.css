@@ -1,0 +1,20 @@
+body{
+    background-color: #24abfc;
+}
+#myTextBox{
+    background-color: #b8e4ff !important;
+}
+.btn-circle{
+    width: 25px;
+    height: 25px;
+    padding: 1px 1px;
+    border-radius: 60px;
+}
+.alert{
+    width: 400px;
+    margin: auto !important;
+    text-align: center;
+}
+.text-justify{
+    text-align: justify;
+}
